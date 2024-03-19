@@ -1,5 +1,6 @@
 <img src="https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202201/supercalculateur.jpg?itok=TQBvm0tC" width="1000" height="300">
 
+<img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <h1 align="center">Hi 👋, I'm Angel Angelov</h1>
 <h3 align="center">A talented graduate developer with a strong academic background</h3>
 
